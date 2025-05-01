@@ -1,4 +1,4 @@
-📊 PLOTLY
+##📊 PLOTLY
 Create Stunning Interactive & Animated Visualizations in Python
 
 📌 Overview
